@@ -73,7 +73,7 @@ header .bar i{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url("bg_image.jpg");
+    background-image: url("./assets/bg_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     /* background-position: center; */
